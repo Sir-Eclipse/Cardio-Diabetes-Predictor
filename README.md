@@ -34,4 +34,12 @@ To run this project locally, follow these steps:
    ```bash
    streamlit run app.py
    ```
+## Usage
+
+- Open the Streamlit app in your web browser.
+- Input relevant health data as prompted.
+- Receive predictions for diabetes and heart disease based on the provided data.
+
+## Live demo
+[Link Text](https://cardio-diabetes-predictor.streamlit.app/)
 
