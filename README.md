@@ -41,5 +41,5 @@ To run this project locally, follow these steps:
 - Receive predictions for diabetes and heart disease based on the provided data.
 
 ## Live demo
-[Link Text](https://cardio-diabetes-predictor.streamlit.app/)
+[Deployed app link](https://cardio-diabetes-predictor.streamlit.app/)
 
