@@ -1,13 +1,13 @@
 # CardioDiabetes-Predictor
-Our health prediction tool uses machine learning to analyze user input and predict diabetes and heart disease. It provides accurate predictions and personalized insights, helping users take proactive steps towards better health with a user-friendly interface and clear results.
+Our health prediction tool uses artificial intelligence to analyze user input and predict diabetes and heart disease. It provides accurate predictions and personalized insights, helping users take proactive steps towards better health with a user-friendly interface and clear results.
 ## Overview
-The CardioDiabetes-Predictor is a machine learning application designed to predict the likelihood of diabetes and heart disease based on user input. This project leverages advanced machine learning models to provide accurate predictions and insights, helping users assess their risk for these common health conditions.
+The CardioDiabetes-Predictor is a artificial intelligence application designed to predict the likelihood of diabetes and heart disease based on user input. This project leverages advanced artificial intelligence models to provide accurate predictions and insights, helping users assess their risk for these common health conditions.
 ## Features
 
-- **Diabetes Prediction:** Utilizes machine learning algorithms to predict the risk of diabetes based on user-provided data.
+- **Diabetes Prediction:** Utilizes artificial intelligence algorithms to predict the risk of diabetes based on user-provided data.
 - **Heart Disease Prediction:** Provides predictions for heart disease risk using a separate model tailored for cardiovascular health.
 - **User-Friendly Interface:** Developed with Streamlit, offering an intuitive and interactive web interface for easy data input and result visualization.
-- **Python-Based Models:** Built with Python, using popular libraries for machine learning and data analysis.
+- **Python-Based Models:** Built with Python, using popular libraries for artificial intelligence and data analysis.
 
 ## Technologies Used
 
